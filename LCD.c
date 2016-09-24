@@ -1,5 +1,5 @@
 
-#ifndef F_CPU                                                                                          // To check whether the external                           frequency is defined earlier or not.
+#ifndef F_CPU                                                                             // To check whether the external                           frequency is defined earlier or not.
 #define F_CPU 16000000UL                                                                 //To set the frequency at 16 MHZ.
 #endif
 #include<avr/io.h>                                                                                // HEADER files for AVR IC
